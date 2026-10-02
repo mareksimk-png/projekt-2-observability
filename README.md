@@ -208,4 +208,4 @@ Propojení je řešeno přes **`terraform_remote_state`** – Projekt 2 čte sta
 
 ## 📝 Licence
 
-MIT
+MIT# projekt-2-observability
