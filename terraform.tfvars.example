@@ -1,0 +1,5 @@
+aws_region    = "eu-central-1"
+project_name  = "portfolio-iac"
+alert_email   = "marek.simk@email.cz"      # ⚠️ ZMĚŇ NA SVŮJ E-MAIL!
+cpu_threshold = 80
+disk_threshold = 85
